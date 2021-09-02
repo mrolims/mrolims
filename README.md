@@ -1,3 +1,3 @@
-- I’m @mrolims and I'm a doctorade student in physics at Universidade Estadual de Ponta Grossa, Ponta Grossa, Paraná, Brazil.
+- I’m @mrolims and I'm a doctoral student in physics at Universidade Estadual de Ponta Grossa, Ponta Grossa, Paraná, Brazil.
 - I’m currently studying nonlinear dynamics, more specifically conservative systems.
 - You can reach me by sending a email to matheusrolim95@gmail.com.
