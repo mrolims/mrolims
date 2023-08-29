@@ -1,3 +1,3 @@
-- I’m @mrolims and I'm a doctoral student in physics at Universidade Estadual de Ponta Grossa, Ponta Grossa, Paraná, Brazil.
-- I’m currently studying nonlinear dynamics, which includes Hamiltonian chaos, complex networks and synchronization.
-- You can reach me by sending a email to matheusrolim95@gmail.com.
+- I’m @mrolims, a doctoral physics student at Universidade Estadual de Ponta Grossa, Ponta Grossa, Paraná, Brazil.
+- I’m currently studying nonlinear dynamics, which includes Hamiltonian chaos, complex networks, and synchronization.
+- You can reach me by sending an email to matheusrolim95@gmail.com.
