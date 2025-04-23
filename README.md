@@ -1,3 +1,4 @@
 - I’m @mrolims, a postdoctoral researcher at São Paulo State University (UNESP), Rio Claro, SP, Brazil.
-- I’m currently studying nonlinear dynamics, which includes Hamiltonian chaos, complex networks, and synchronization.
-- You can reach me by sending an email to matheusrolim95@gmail.com.
+- Currently, I'm also a Visiting Fellow at the University of Essex, Colchester, United Kingdom.
+- My research interest is mainly nonlinear dynamics and chaos, which includes, but it's not limited to, Hamiltonian chaos, stickiness effect, diffusion and transport in phase space, complex networks, and syncronization.
+- You can reach me by sending an email to rolim.sales.m[at]gmail.com.
